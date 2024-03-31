@@ -1,0 +1,1 @@
+Warning: Constant WP_DEBUG already defined in /home/resurse6/public_html/wp-config.php on line 83 ArgumentCountError thrownToo few arguments to function WP_Widget::__construct(), 0 passed in /home/resurse6/public_html/wp-includes/class-wp-widget-factory.php on line 62 and at least 2 expected

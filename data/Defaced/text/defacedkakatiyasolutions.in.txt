@@ -1,0 +1,1 @@
+Certainly! Below is a simple HTML code that displays "WELCOME TO KAKATIYA SOLUTIONS" with an AI icon on the right side: ```html Welcome to Kakatiya Solutions Welcome to Kakatiya Solutions ```

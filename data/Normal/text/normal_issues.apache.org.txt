@@ -1,0 +1,1 @@
+issues.apache.org issues.apache.org Apache currently hosts two different issue tracking systems, Bugzilla and Jira. Projects may use Github for issue tracking instead. To find out how to report an issue for a particular project, please visit the project resource listing or check the relevant project website. Bugzilla Bugzilla (SpamAssassin) Bugzilla (OpenOffice) Jira

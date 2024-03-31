@@ -1,0 +1,1 @@
+Navneet Academy connection failed:Access denied for user 'navneetacademy_navneetacademy'@'localhost' (using password: YES)

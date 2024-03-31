@@ -1,0 +1,1 @@
+www.hixie.ch www.hixie.ch Welcome to www.hixie.ch, home of my Web-related materials. You are probably looking either for my Web log or my index of other sites such as my personal site. However, if you really are looking for this server, from here you can get to: advocacy/ commentary/ specs/ tests/

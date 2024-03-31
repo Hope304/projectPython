@@ -1,0 +1,1 @@
+Code Review The Rietveld instance used for Chromium code reviews has been replaced by a static site. Issues and diffs have been archived and are still viewable. Current Chromium code reviews can be found on Chromium Gerrit. For any questions or concerns, please file a bug under the Infra>SDK component.

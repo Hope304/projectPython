@@ -1,0 +1,1 @@
+Imder Apartadó Atención {{main.externalLinkMessage}} {{main.externalLinkName}} {{main.externalLinkOkButton}} {{main.externalLinkCancelButton}}

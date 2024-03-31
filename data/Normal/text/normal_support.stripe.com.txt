@@ -1,0 +1,1 @@
+Stripe: Help & Support JavaScript is currently disabled You need JavaScript for the best experience on Stripe. Please enable it in your browser settings. Find out how

@@ -1,0 +1,1 @@
+CreateJS | A suite of JavaScript libraries and tools designed for working with HTML5

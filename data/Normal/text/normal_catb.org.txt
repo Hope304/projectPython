@@ -1,0 +1,1 @@
+catb.org site page Eric S. Raymond's Home Page ESR's home page Email me This is catb.org, named after (the) Cathedral and the Bazaar. Most of it, under directory esr, is my personal site. In theory other people could shelter here as well, but this has yet to occur.

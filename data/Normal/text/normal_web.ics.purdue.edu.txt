@@ -1,0 +1,1 @@
+Career Account Web Service This service allows Purdue Career Account holders to publish on the web. Please see Gold Answers for details on how to use this service: How do I get and use personal webspace or change the files in there? How do I troubleshoot general problems with my Career Account web space? How do I access my personal webspace using an SSH Client?

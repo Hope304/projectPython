@@ -1,0 +1,1 @@
+Warning: mysql_connect(): Access denied for user 'mystones_admn'@'localhost' (using password: YES) in /home/mystones/public_html/mystones.bg/function.php on line 351 Error conecting DB

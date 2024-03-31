@@ -1,0 +1,1 @@
+href.li: hide your referrer href.li: hide your referrer Create an anonymous link that will hide the HTTP Referer header. Hide the referrer to your URL: href.li bookmarklet - drag this link to your Browser toolbar.

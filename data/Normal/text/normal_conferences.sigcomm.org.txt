@@ -1,0 +1,1 @@
+SIGCOMM Conferences Placeholder for SIGCOMM-sponsored conference page hosting. Direct links shouldn't go here. We'll redirect you to http://www.sigcomm.org/events. co-next hotnets imc sigcomm mobicom

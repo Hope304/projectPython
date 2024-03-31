@@ -1,0 +1,1 @@
+Failed to connect to MySQL - Access denied for user 'u445919_kozerki'@'localhost' (using password: YES)

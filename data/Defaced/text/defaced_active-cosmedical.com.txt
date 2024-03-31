@@ -1,0 +1,1 @@
+The index file is absent in the reg.ruv Root folder of the site there is no index file What happened? - there is no file of the main page of the site (index.php or /hosting_static_lostindex/index.html) - the site is unevenly placed in the control panel, place the site for the site?Instructions or contact our specialists.

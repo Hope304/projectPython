@@ -1,0 +1,1 @@
+Better Markdown Parser in PHP Demo Benchmarks Tests GitHub Markdown Parser in PHP One File / Super Fast / Extensible / GitHub Flavored Demo GitHub $Parsedown = new Parsedown(); echo $Parsedown->text('Hello _Parsedown_!'); I also make tools for thought: Nota and IntelliBar

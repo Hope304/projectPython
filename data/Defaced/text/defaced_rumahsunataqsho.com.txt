@@ -1,0 +1,1 @@
+Warning: Private methods cannot be final as they are never overridden by other classes in /home/pakejoku.my.id/rumahsunataqsho.com/wp-includes/class-wp-session-tokens.php on line 69 Fatal error: Array and string offset access syntax with curly braces is no longer supported in /home/pakejoku.my.id/rumahsunataqsho.com/wp-includes/script-loader.php on line 707

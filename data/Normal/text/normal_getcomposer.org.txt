@@ -1,0 +1,1 @@
+Composer A Dependency Manager for PHP Latest: 2.7.1 (changelog) Getting Started Download Documentation Browse Packages Issues GitHub Authors: Nils Adermann, Jordi Boggiano and many community contributions Sponsored by: Logo by: WizardCat Composer and all content on this site are released under the MIT license.

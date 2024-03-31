@@ -1,0 +1,1 @@
+Fatal error: Class 'JConfig' not found in /home/logement/www/includes/framework.php on line 56

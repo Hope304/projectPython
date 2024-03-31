@@ -1,0 +1,1 @@
+Fatal error: __autoload() is no longer supported, use spl_autoload_register() instead in /homepages/15/d246828599/htdocs/fabioapelbaum/portfolio/wp-includes/compat.php on line 502

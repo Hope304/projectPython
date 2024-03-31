@@ -1,0 +1,1 @@
+Welcome to your SWAG instance Welcome to your SWAG instance A webserver and reverse proxy solution brought to you by linuxserver.io with php support and a built-in Certbot client. We have an article on how to use swag here: docs.linuxserver.io For help and support, please visit: linuxserver.io/support

@@ -1,0 +1,1 @@
+Microsoft on GitHub The index of Microsoft GitHub repositories that are open source has been relocated to https://opensource.microsoft.com.

@@ -1,0 +1,1 @@
+World Bank Internet Error Page AutoRedirect Welcome to World Bank Group's Internet! Sorry, there seems to be some problem at this time If your browser does not redirect you to the Bank's Internet within 5 seconds, please click the link below: Internet Home Page If the problem persists, please send an email to Web Admin.

@@ -1,0 +1,1 @@
+Survey Indeks Persepsi Korupsi Fatal error: Uncaught Error: Call to undefined function mysqli_connect() in /home/pnlhoks1/public_html/sipk/config.php:3 Stack trace: #0 /home/pnlhoks1/public_html/sipk/index.php(11): include() #1 {main} thrown in /home/pnlhoks1/public_html/sipk/config.php on line 3

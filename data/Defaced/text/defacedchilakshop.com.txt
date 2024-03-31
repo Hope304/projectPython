@@ -1,0 +1,1 @@
+The file /home/chilak/domains/chilakshop.com/public_html/wp-content/themes/PhloxPro-WPMonster/functions.php is corrupted.

@@ -1,0 +1,1 @@
+Site Create successfulDelete or modify all file operation precautions in this directory: 1: New site, database, FTP can be operated on the PHPStudy panel, database can download database management software in the environment;Copy, shear may cause the program file permissions incorrectly; use manual, video tutorial, bug feedback, official website address: www.xp.cn

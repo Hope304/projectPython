@@ -1,0 +1,1 @@
+not the chiark home page Sorry, wrong server address chiark's webserver is at http://www.chiark.greenend.org.uk. Please add the www to the URL you were using and try again; if you got to this page by following a link please inform the owner of the page you came from so that they can correct the link. Ian Jackson webmaster@chiark.greenend.org.uk.

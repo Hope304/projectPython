@@ -1,0 +1,1 @@
+Duplicity's website has moved to Gitlab. If you are not redirected soon, please follow this link.

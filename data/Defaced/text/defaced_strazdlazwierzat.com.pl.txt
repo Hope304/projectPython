@@ -1,0 +1,1 @@
+Strazdlazwierzat.com.pl Welcome to the default website strazdlazwierzat.com.pl supported by hosting from hostinghouse.pl to change this page Copy files to the folder /DOMAINS/strazdlazwierzat.com.pl/public_html and delete or overwrite the index.html file
